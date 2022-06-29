@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://cdn.shopify.com/s/files/1/0610/2188/0533/products/spider-man-unlock-suits_1024x.png?v=1637266410');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
